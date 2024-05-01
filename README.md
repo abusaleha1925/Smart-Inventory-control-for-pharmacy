@@ -1,0 +1,1 @@
+# Smart-Inventory-control-for-pharmacy
